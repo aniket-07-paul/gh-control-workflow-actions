@@ -1,5 +1,5 @@
 name: Matrix Demo
-on: psuh
+on: push
 jobs: 
   - build: 
       strategy:
